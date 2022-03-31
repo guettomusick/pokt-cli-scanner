@@ -1,0 +1,49 @@
+{
+  "hash": "6B94107945418F07FC599DA26B6A848313599A40550BACDC695E830905FBD524",
+  "height": 54625,
+  "index": 3785,
+  "proof": {
+    "data": null,
+    "proof": {
+      "aunts": null,
+      "index": 0,
+      "leaf_hash": null,
+      "total": 0
+    },
+    "root_hash": ""
+  },
+  "stdTx": {
+    "entropy": 50745817854815,
+    "fee": [
+      {
+        "amount": "10000",
+        "denom": "upokt"
+      }
+    ],
+    "memo": "semana11",
+    "msg": {
+      "type": "pos/Send",
+      "value": {
+        "amount": "190925000",
+        "from_address": "8a8bab1f69edf7871ead013f26d34f66ac3ffbb0",
+        "to_address": "d3018930d012076f3b4fad690e82df4df4d516f8"
+      }
+    },
+    "signature": {
+      "pub_key": "5f1db68e3306c3cb8842559404406d71e29c58126542686582840c208c37851e",
+      "signature": "3fff678db0471225d23b6fc0602fcb1c7e7fa81ba888937005b7006f0e7f296eb36800b3b6a715d13d51a8255848c0be7190ce512620319a64d9b61362447506"
+    }
+  },
+  "tx": "1QEKSwoQL3gubm9kZXMuTXNnU2VuZBI3ChSKi6sfae33hx6tAT8m009mrD/7sBIU0wGJMNASB287T61pDoLfTfTVFvgaCTE5MDkyNTAwMBIOCgV1cG9rdBIFMTAwMDAaZAogXx22jjMGw8uIQlWUBEBtceKcWBJlQmhlgoQMIIw3hR4SQD//Z42wRxIl0jtvwGAvyxx+f6gbqIiTcAW3AG8Ofylus2gAs7anFdE9UaglWEjAvnGQzlEmIDGaZNm2E2JEdQYiCHNlbWFuYTExKN/myfPyxAs=",
+  "tx_result": {
+    "code": 0,
+    "codespace": "",
+    "data": null,
+    "events": null,
+    "info": "",
+    "log": "",
+    "message_type": "send",
+    "recipient": "D3018930D012076F3B4FAD690E82DF4DF4D516F8",
+    "signer": "8A8BAB1F69EDF7871EAD013F26D34F66AC3FFBB0"
+  }
+}
