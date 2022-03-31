@@ -18,7 +18,7 @@ node . block {height}
 
 ## query txs in a block
 page defaults to 1
-limit defaults to 1000
+limit defaults to 100
 prove defaults to false
 
 ```
