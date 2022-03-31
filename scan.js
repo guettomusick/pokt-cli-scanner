@@ -87,7 +87,7 @@ switch (process.argv[2]) {
     queryBlock(process.argv[3]);
     break;
   case 'txs':
-    queryTxs(process.argv[3], process.argv[4] || '1', process.argv[5] || '1000', Boolean(process.argv[6] || 'false'));
+    queryTxs(process.argv[3], process.argv[4] || '1', process.argv[5] || '100', Boolean(process.argv[6] || 'false'));
     break;
   case 'tx':
     queryTx(process.argv[3]);
