@@ -1,0 +1,14 @@
+{
+  "name": "pokt-cli-scanner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scan.js",
+  "scripts": {
+    "start": "node scan.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-fetch": "^3.0.0"
+  }
+}
